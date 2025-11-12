@@ -75,8 +75,7 @@ This project explores the intersection of **computer vision**, **natural languag
 | Captions Only        | 71.8%    | Some signal, but less than vision    |
 | Combined Features    | **78.5%**| Best performing configuration        |
 
-**Confusion Matrix**:
-![confusion_matrix](assets/confusion_matrix.png)
+
 
 - High True Positive Rate: Model successfully identifies most viral posts
 - False positives mainly occur in borderline cases with vague content
@@ -134,5 +133,5 @@ This project explores the intersection of **computer vision**, **natural languag
 
 ---
 
-## 📁 File Structure
+
 
