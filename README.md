@@ -103,7 +103,7 @@ This project explores the intersection of **computer vision**, **natural languag
 | Nature    | 14%            | 30%              | Overused in low-like content |
 | Urban     | ~Same          | ~Same            | Neutral impact               |
 
-![topic_dist_plot](assets/topic_engagement.png)
+
 
 ---
 
